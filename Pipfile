@@ -7,6 +7,9 @@ verify_ssl = true
 pylint = "*"
 
 [packages]
+nltk = "*"
+pytest = "*"
+collections = "*"
 
 [requires]
 python_version = "3.7"
